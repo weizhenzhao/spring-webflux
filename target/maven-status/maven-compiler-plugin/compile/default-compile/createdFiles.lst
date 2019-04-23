@@ -1,3 +1,7 @@
+org\spring\springboot\controller\CityWebFluxController.class
+org\spring\springboot\dao\impl\CityRepository.class
+org\spring\springboot\dao\CityRepository.class
 org\Application.class
 org\spring\springboot\handler\CityHandler.class
 org\spring\springboot\router\CityRouter.class
+org\spring\springboot\domain\City.class
